@@ -1,0 +1,10 @@
+---
+title: "SQL Workshop"
+---
+
+## Prerequisite
+
+Please take the following online course before the SQL workshop.
+
+* [Learning SQL Programming by Scott Simpson](https://www.lynda.com/SQL-tutorials/Learning-SQL-Programming/548044-2.html) (1h 27m) (login from [here](https://main.its.utoronto.ca/news/free-access-to-lynda-com-online-courses/) using UTORid for free access).
+

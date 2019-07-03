@@ -1,0 +1,13 @@
+name: "SQL Workshop"
+output_dir: "docs"
+include: ["*.pdf"]
+exclude: ["*.pptx"]
+navbar:
+  title: "MMA SQL Workshop"
+  right:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
