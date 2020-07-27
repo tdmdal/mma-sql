@@ -1,13 +1,25 @@
+<style>
+ol ul {
+    margin-bottom: 10px;
+}
+</style>
+
 ---
 title: "SQL Workshop"
 ---
 
 ### Prerequisite
 
-Please take the following online course before the SQL workshop.
+1. Please take the following online course before the SQL workshop.
 
-* [Learning SQL Programming by Scott Simpson](https://www.linkedin.com/learning/learning-sql-programming) (1h 27m) (login from [here](https://onesearch.library.utoronto.ca/linkit/lyndacom-online-courses) using UTORid for free access).
+    * [Learning SQL Programming by Scott Simpson](https://www.linkedin.com/learning/learning-sql-programming){target="_blank"} (1h 27m) (login from [here](https://onesearch.library.utoronto.ca/linkit/lyndacom-online-courses){target="_blank"} using UTORid for free access).
+
+2. During the workshop, we will practise SQL together using [Google Colab](https://colab.research.google.com/){target="_blank"}, so please make sure you have a Google account.
 
 ### Slides for the workshop
 
 * Intro to SQL ([sql_bootcamp.pdf](sql_bootcamp.pdf))
+
+### Notebook for the workshop
+
+* Coming soon.
