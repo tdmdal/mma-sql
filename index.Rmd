@@ -22,4 +22,4 @@ title: "SQL Workshop"
 
 ### Notebook for the workshop
 
-* Coming soon.
+* SQL Intro Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/mma-sql/blob/master/docs/SQL_Intro_Sqlite.ipynb)
