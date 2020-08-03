@@ -16,10 +16,30 @@ title: "SQL Workshop"
 
 2. During the workshop, we will practise SQL together using [Google Colab](https://colab.research.google.com/){target="_blank"}, so please make sure you have a Google account.
 
-### Slides for the workshop
+### Slides
 
 * Intro to SQL ([sql_bootcamp.pdf](sql_bootcamp.pdf))
 
-### Notebook for the workshop
+### Notebook
 
 * SQL Intro Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/mma-sql/blob/master/docs/SQL_Intro_Sqlite.ipynb)
+
+---
+
+### SQL Setup for RSM8411 (MMA, Fall 2020)
+
+You will learn more SQL in RSM8411 this fall. Instead of SQLite as we use in this workshop, RSM8411 will use Microsoft SQL Server Express. Please make sure you have it installed and tested before the end of this workshop. If you encounter any problem setting it up, please let me know.
+
+* Download and install [Microsoft SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads){target="_blank"}, a mini-versin of MS SQL Server (<span style="color: red;">important:</span> download the **Express** version).
+
+* Download and install [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms){target="_blank"} (SSMS), A GUI management client for MS SQL Server.
+
+* Test the installation (I will walk you through this step in the workshop).
+    * Download and restore the [Northwind Database](northwind.bak).
+    * Execute a few SQL statements.
+
+* Getting-stated resources: [Querying Microsoft SQL Server 2019](https://www.linkedin.com/learning/querying-microsoft-sql-server-2019){target="_blank"} (login from [here](https://onesearch.library.utoronto.ca/linkit/lyndacom-online-courses){target="_blank"} using UTORid for free access).
+
+---
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
