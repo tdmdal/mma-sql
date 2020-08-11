@@ -10,7 +10,7 @@ title: "SQL Workshop"
 
 ### Prerequisite
 
-1. Please take the following online course before the SQL workshop.
+1. Please take the following online course before the SQL workshop. (You will need to install [SQLite](https://www.sqlite.org/index.html){target="_blank"} and [DB Browser for SQLite](https://sqlitebrowser.org/){target="_blank"} for this online course.)
 
     * [Learning SQL Programming by Scott Simpson](https://www.linkedin.com/learning/learning-sql-programming){target="_blank"} (1h 27m) (login from [here](https://onesearch.library.utoronto.ca/linkit/lyndacom-online-courses){target="_blank"} using UTORid for free access).
 
