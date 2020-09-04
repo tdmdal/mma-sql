@@ -40,6 +40,8 @@ You will learn more SQL in RSM8411 this fall. Instead of SQLite as we use in thi
 
 * Getting-stated resources: [Querying Microsoft SQL Server 2019](https://www.linkedin.com/learning/querying-microsoft-sql-server-2019){target="_blank"} (login from [here](https://onesearch.library.utoronto.ca/linkit/lyndacom-online-courses){target="_blank"} using UTORid for free access).
 
+In addition, to be well prepared for RSM8411, please go through [this SQL tutorial](https://www.w3schools.com/sql/){target="_blank"} at w3schools. The tutorial provides a good review of SQL syntax.
+
 ---
 
 Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
