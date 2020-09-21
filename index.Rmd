@@ -24,6 +24,16 @@ title: "SQL Workshop"
 
 * SQL Intro Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/mma-sql/blob/master/docs/SQL_Intro_Sqlite.ipynb)
 
+### Backup Setup
+
+If you don't have access to Google service, below is a backup setup for the workshop.
+
+1. Install [SQLite](https://www.sqlite.org/index.html){target="_blank"} and [DB Browser for SQLite](https://sqlitebrowser.org/){target="_blank"}. You should already have it installed if you took the online course by Scott Simpson (see Prerequisite above).
+
+2. Download the dataset ([northwind.sqlite3](data/northwind.sqlite3)).
+
+3. Load the dataset in DB Browser for SQLite, and follow along using the [html version](SQL_Intro_Sqlite.html) of the notebook.
+
 ---
 
 ### SQL Setup for RSM8411 (MMA, Fall 2020)
