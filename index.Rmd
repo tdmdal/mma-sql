@@ -10,7 +10,7 @@ title: "SQL Workshop"
 
 ### Prerequisite
 
-1. Please take the following online course before the SQL workshop. (You will need to install [SQLite](https://www.sqlite.org/index.html){target="_blank"} and [DB Browser for SQLite](https://sqlitebrowser.org/){target="_blank"} for this online course.)
+1. Please take the following online course before the SQL workshop. (You will need to install [DB Browser for SQLite](https://sqlitebrowser.org/){target="_blank"} for this online course.)
 
     * [Learning SQL Programming by Scott Simpson](https://www.linkedin.com/learning/learning-sql-programming){target="_blank"} (1h 27m) (login from [here](https://onesearch.library.utoronto.ca/linkit/lyndacom-online-courses){target="_blank"} using UTORid for free access).
 
@@ -28,7 +28,7 @@ title: "SQL Workshop"
 
 If you don't have access to Google service, below is a backup setup for the workshop.
 
-1. Install [SQLite](https://www.sqlite.org/index.html){target="_blank"} and [DB Browser for SQLite](https://sqlitebrowser.org/){target="_blank"}. You should already have it installed if you took the online course by Scott Simpson (see Prerequisite above).
+1. Install [DB Browser for SQLite](https://sqlitebrowser.org/){target="_blank"}. You should already have it installed if you took the online course by Scott Simpson (see Prerequisite above).
 
 2. Download the dataset ([northwind.sqlite3](data/northwind.sqlite3)).
 
